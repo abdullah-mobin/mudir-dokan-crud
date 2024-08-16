@@ -1,0 +1,5 @@
+.vscode/
+.env
+TestResults.xml
+dbconfig.txt
+tempCodeRunnerFile.go
